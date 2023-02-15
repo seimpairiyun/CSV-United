@@ -10,5 +10,8 @@ Filename-002.csv
 Filename-002.csv
 ...
 
+input:
+python csvUnited.py Filename
+
 output: Filename.csv
 ```
